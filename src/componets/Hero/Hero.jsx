@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}> Hi,I'm Aba</h1>
+        <h1 className={styles.title}> Hi,I'm Bangaranayaka P</h1>
         <p className={styles.description}>
           I'm Java Full-stack developer with 2+ years of experience using
           Java,Spring boot, Microservices and ReactJS,Reach out me if you'd like to
