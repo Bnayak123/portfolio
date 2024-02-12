@@ -17,8 +17,8 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3> Backend Developer</h3>
               <p>
-                I'm a Backend developer with experience in building
-                Microservices applications with best practices.
+                I'm a Backend developer with 2+ years of experience in building
+                Java applications.
               </p>
             </div>
           </li>
@@ -27,7 +27,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3> Frontend Developer</h3>
               <p>
-                I have experience developing responsive frontend applications.
+                I have experience developing frontend applications.
               </p>
             </div>
           </li>
@@ -37,7 +37,7 @@ const About = () => {
               <h3> Backend Developer</h3>
               <p>
                 I have experience developing fast and optimized back-end Systems
-                and APIs.
+                and Microservices Architecture with APIs best practices.
               </p>
             </div>
           </li>
