@@ -20,15 +20,15 @@ export const Contact = () => {
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/in/bangaranayaka-p-304b621b7">linkedin.com/Bangaranayaka</a>
+          <a href="https://www.linkedin.com/in/bangaranayaka-p-304b621b7">linkedin.com</a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://github.com/Bnayak123">github.com/Bangranayaka</a>
+          <a href="https://github.com/Bnayak123">github.com</a>
         </li>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://github.com/Bnayak123">github.com/Bangranayaka</a>
+          <img className={styles.download} src={getImageUrl("contact/download-file.png")} alt="download icon" />
+          <a  href="https://drive.google.com/file/d/16E7qVcxAdOnhu0HqCGvyOhVxKNoAFQML/view">Resume-Download</a>
         </li>
       </ul>
     </footer>

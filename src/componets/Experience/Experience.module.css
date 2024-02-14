@@ -36,18 +36,21 @@
   gap: 11px;
 }
 
+
 .skillImageContainer {
   background-color: var(--color-secondary);
   border-radius: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 120px;
-  height: 120px;
+  width: 80x;
+  height: 80px;
 }
 
 .skillImageContainer img {
-  width: 75px;
+  /* width: 80px; */
+  border-radius: 50%;
+  
 }
 
 .skill p {
