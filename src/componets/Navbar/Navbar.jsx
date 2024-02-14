@@ -24,11 +24,11 @@ const Navbar = () => {
           <li>
             <a href="#experience">Experience</a>
           </li>
-          <li>
+          {/* <li>
             <a href="#project">project</a>
-          </li>
+          </li> */}
           <li>
-            <a href="#contact">contact</a>
+            <a href="#contact">Contact</a>
           </li>
         </ul>
       </div>
