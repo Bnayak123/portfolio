@@ -6,6 +6,7 @@ import About from './componets/About/About';
 import Experience from "./componets/Experience/Experience";
 import Projects from "./componets/Projects/Projects";
 import { Contact } from "./componets/Contact/Contact";
+import DesktopModeNotification from "./componets/DesktopModeNotification";
 
 
 
@@ -13,6 +14,7 @@ function App() {
  
   return (
     <div className={styles.App}> 
+    <DesktopModeNotification/>
      <Navbar/>
      <Hero/>
      <About/>  
