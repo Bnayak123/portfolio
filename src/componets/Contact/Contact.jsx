@@ -28,7 +28,7 @@ export const Contact = () => {
         </li>
         <li className={styles.link}>
           <img className={styles.download} src={getImageUrl("contact/download-file.png")} alt="download icon" />
-          <a  href="https://drive.google.com/file/d/16E7qVcxAdOnhu0HqCGvyOhVxKNoAFQML/view">Resume-Download</a>
+          <a  href=" https://drive.google.com/file/d/17i9qDI51S5U-J0pdBxugzYtXExzlvwoC/view?usp=drivesdk">Resume-Download</a>
         </li>
       </ul>
     </footer>
